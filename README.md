@@ -1,4 +1,3 @@
-# UML
 # ProgettoIDS
 Progetto Centro Commerciale in Centro (C3)
 
